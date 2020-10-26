@@ -5,3 +5,6 @@
 @section('social')
     @parent
 @endsection
+@section('signup')
+    @parent
+@endsection

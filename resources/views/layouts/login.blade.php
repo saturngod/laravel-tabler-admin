@@ -83,9 +83,11 @@
           </div>
           @show
         </form>
+        @section("signup")
         <div class="text-center text-muted">
           Don't have account yet? <a href="./sign-up.html" tabindex="-1">Sign up</a>
         </div>
+        @show
       </div>
     </div>
     <!-- Libs JS -->
