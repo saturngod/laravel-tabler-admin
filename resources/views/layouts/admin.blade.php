@@ -15,8 +15,8 @@
     <meta name="HandheldFriendly" content="True"/>
     <meta name="MobileOptimized" content="320"/>
     <meta name="robots" content="noindex,nofollow,noarchive"/>
-    <link rel="icon" href="./favicon.ico" type="image/x-icon"/>
-    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
     <!-- CSS files -->
     <link href={{ asset("libs/jqvmap/dist/jqvmap.min.css") }} rel="stylesheet"/>
     <link href={{ asset("css/tabler.min.css") }} rel="stylesheet"/>
